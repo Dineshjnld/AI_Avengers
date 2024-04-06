@@ -8,7 +8,7 @@ import random
 load_dotenv()
 
 # Configure Gemini API
-genai.configure(api_key="AIzaSyDNkZfYUpFs5oSv6w2_tYLb-ERLB4A3hjM")
+genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
 # Load teammates dataset from CSV
 try:
