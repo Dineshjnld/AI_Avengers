@@ -7,4 +7,12 @@ Features
 2. Task Allocation: The application allocates tasks to team members based on their skills and availability.
 3. Interactive User Interface: Built using Streamlit, the user interface provides an intuitive experience for project planning and task allocation.
 
-   
+Contributing
+Contributions are welcome! If you'd like to contribute to Super Squad, please follow these guidelines:
+
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature-branch).
+3. Make your changes.
+4. Commit your changes (git commit -m 'Add new feature').
+5. Push to the branch (git push origin feature-branch).
+6. Create a new Pull Request.   
