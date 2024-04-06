@@ -3,7 +3,7 @@ import streamlit as st
 import google.generativeai as genai
 import pandas as pd
 import random
-
+import os
 # Load environment variables
 load_dotenv()
 
